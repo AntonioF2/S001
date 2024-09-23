@@ -43,11 +43,11 @@ class Gato extends Animal {
 
 
 
-const animal1 = new Animal('Balu', 5, 'Elefante');
+const animal1 = new Animal('Jack', 5, 'Kanguru');
 
-const cachorro1 = new Cachorro('Rex', 3, 'Labrador');
+const cachorro1 = new Cachorro('Garoto', 3, 'GoldenRetriever');
 
-const gato1 = new Gato('Mimi', 2, ['Preto', 'Branco', 'Cinza']);
+const gato1 = new Gato('Stuart', 2, ['Preto', 'Branco', 'Amarelo']);
 
 
 function listarMetodos(obj) {
